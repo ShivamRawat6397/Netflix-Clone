@@ -9,7 +9,6 @@ This is a clone of the Netflix India website created using HTML and CSS.
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
